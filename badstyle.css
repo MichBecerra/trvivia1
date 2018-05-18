@@ -1,0 +1,23 @@
+title{
+
+}
+h1{
+  background-color: black;
+  border: 0px;
+  padding: 8em;
+  background-image: url("https://media.giphy.com/media/26ufmC8QDkLTjruX6/giphy.gif");
+  background-repeat: no-repeat;
+  background-size: 750px 500px;
+  background-position: center;
+}
+p{
+  color: white;
+  background-position: center;
+  background-color: black;
+  font-family: 'Irish Grover';font-size: 30px ;
+}
+
+body{
+  background-color: black;
+
+}
